@@ -18,23 +18,23 @@ All events will be in the SNS-CLO (building 8600) room ??? and times are EDT/GMT
 
 Mon, Oct 16
 -----------
-08:30 Badging - SNS-CLO visitor center09:00 Welcome - Jon Taylor
-09:15 Overview
-09:30 ???
-12:00 lunch - *need topic*
-13:00 Code camp
-17:00 Adjourn
+* 08:30 Badging - SNS-CLO visitor center09:00 Welcome - Jon Taylor
+* 09:15 Overview
+* 09:30 ???
+* 12:00 lunch - *need topic*
+* 13:00 Code camp
+* 17:00 Adjourn
 
 Tue, Oct 17
 -----------
-09:00 ???
-12:00 lunch - *need topic*
-13:00 Code camp
-17:00 Adjourn
+* 09:00 ???
+* 12:00 lunch - *need topic*
+* 13:00 Code camp
+* 17:00 Adjourn
 
 Wed, Oct 18
 -----------
-09:00 ???
-12:00 lunch - *need topic*
-13:00 Code camp
-17:00 Adjourn
+* 09:00 ???
+* 12:00 lunch - *need topic*
+* 13:00 Code camp
+* 17:00 Adjourn
