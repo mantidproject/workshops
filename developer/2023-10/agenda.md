@@ -14,11 +14,12 @@ Organising Committee
 
 Agenda
 ======
-All events will be in the SNS-CLO (building 8600) room ??? and times are EDT/GMT-04:00
+All events will be in the SNS-CLO (building 8600) room C156 and times are EDT/GMT-04:00
 
 Mon, Oct 16
 -----------
-* 08:30 Badging - SNS-CLO visitor center09:00 Welcome - Jon Taylor
+* 08:30 Badging - SNS-CLO visitor center
+* 09:00 Welcome - Jon Taylor
 * 09:15 Overview
 * 09:30 ???
 * 12:00 lunch - *need topic*
