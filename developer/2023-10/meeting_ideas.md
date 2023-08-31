@@ -9,7 +9,7 @@
 *How-to tutorials*
 
 * Model-View-Presenter (MVP)
-* Performance benchmaring
+* Performance benchmarking (Peterson)
 * Buidling packages
 * Workspace index spectrum index detector index
 * Too many algorithms names
