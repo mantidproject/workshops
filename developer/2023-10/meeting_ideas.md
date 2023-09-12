@@ -12,7 +12,7 @@
 
 * Model-View-Presenter (MVP)
 * Performance benchmarking (Peterson)
-* Buidling packages
+* Buidling packages using Conda (Tom)
 * Workspace index spectrum index detector index
 * Too many algorithms names
 * Workspace properties
