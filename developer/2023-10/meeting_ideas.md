@@ -12,8 +12,8 @@
 
 * Model-View-Presenter (MVP)
 * Performance benchmarking (Peterson)
-* Buidling packages using Conda (Tom)
-* Workspace index spectrum index detector index
+* Buidling packages using Conda (Tom Hampson)
+* Workspace index spectrum index detector index (Conor Finn)
 * Too many algorithms names
 * Workspace properties
 * Developing software with mantid as a dependency
