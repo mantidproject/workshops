@@ -20,9 +20,10 @@ Mon, Oct 16
 -----------
 * 08:30 Badging - SNS-CLO visitor center
 * 09:00 Welcome - Jon Taylor
-* 09:15 Overview
-* 09:30 ???
-* 12:00 lunch - *need topic*
+* 09:15 Overview - Pete Peterson
+* 09:30 Performance benchmarking (Peterson) 1h
+* 10:30 Buidling packages using Conda (Tom Hampson) .5-1h
+* 12:00 lunch - Things that have bugged me about mantid - facilitated by Pete Peterson
 * 13:00 Code camp
 * 17:00 Adjourn
 
