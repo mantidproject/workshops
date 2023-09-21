@@ -12,6 +12,11 @@ Organising Committee
 ====================
 [Technical Working Group](https://github.com/mantidproject/governance/tree/main/technical-working-group)
 
+Preparing for the Workshop
+==========================
+The workshop will be split between presentations, short tutorials, and working sessions.
+As a result, attendees are intended to bring a laptop capable of making changes to mantid, or have remote access to a machine that can.
+
 Agenda
 ======
 All events will be in the SNS-CLO (building 8600) room C156 and times are EDT/GMT-04:00
@@ -26,18 +31,25 @@ Mon, Oct 16
 * 11:30 ???
 * 12:00 lunch - Things that have bugged me about mantid - facilitated by Pete Peterson
 * 13:00 Code camp
+* 15:00 Report to the group
+* 15:30 Code camp
 * 17:00 Adjourn
 
 Tue, Oct 17
 -----------
-* 09:00 ???
+* 08:30 ???
 * 12:00 lunch - *need topic*
 * 13:00 Code camp
+* 15:00 Report to the group
+* 15:30 Code camp
 * 17:00 Adjourn
 
 Wed, Oct 18
 -----------
-* 09:00 ???
+* 08:30 ???
 * 12:00 lunch - *need topic*
 * 13:00 Code camp
+* 15:00 Report to the group
+* 15:30 Code camp
+* 16:30 Close-out
 * 17:00 Adjourn
