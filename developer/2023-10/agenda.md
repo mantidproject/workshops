@@ -16,6 +16,7 @@ Preparing for the Workshop
 ==========================
 The workshop will be split between presentations, short tutorials, and working sessions.
 As a result, attendees are intended to bring a laptop capable of making changes to mantid, or have remote access to a machine that can.
+The exact topics for the code camps are dynamic and will be determined by the attendees during the meeting.
 
 Agenda
 ======
