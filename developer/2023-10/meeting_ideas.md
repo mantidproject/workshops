@@ -17,7 +17,7 @@
 
 *How-to tutorials*
 
-* Model-View-Presenter (MVP)
+* Model-View-Presenter (MVP) (Patrou)
 * Performance benchmarking (Peterson) 1h
 * Buidling packages using Conda (Tom Hampson) .5-1h
 * Workspace index spectrum index detector index (Conor Finn)
