@@ -14,6 +14,7 @@
 * Testing during release - an ISIS perspective (Foxley)
 * User stories (Hetrick)
 * Coverity (Peterson)
+* spdlog (Zhang)
 
 *How-to tutorials*
 
