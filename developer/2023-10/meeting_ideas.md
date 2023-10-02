@@ -15,6 +15,7 @@
 * User stories (Hetrick)
 * Coverity (Peterson)
 * spdlog (Zhang)
+* Too many algorithms names (Savici, 10m)
 
 *How-to tutorials*
 
@@ -22,6 +23,5 @@
 * Performance benchmarking (Peterson) 1h
 * Buidling packages using Conda (Tom Hampson) .5-1h
 * Workspace index spectrum index detector index (Conor Finn)
-* Too many algorithms names (Savici)
 * Workspace properties
 * Developing software with mantid as a dependency
