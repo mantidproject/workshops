@@ -29,7 +29,7 @@ Mon, Oct 16
 * 09:15 Overview - Pete Peterson
 * 09:30 Performance benchmarking (Peterson) 1h
 * 10:30 Buidling packages using Conda (Tom Hampson) .5-1h
-* 11:30 Too many algorithms names (Savici)
+* 11:30 Simple MDEvent algorithms (Savici)
 * 12:00 lunch - Things that have bugged me about mantid - facilitated by Pete Peterson
 * 13:00 Code camp
 * 15:00 Report to the group
