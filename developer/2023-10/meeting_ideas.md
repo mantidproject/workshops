@@ -16,12 +16,12 @@
 * Coverity (Peterson)
 * spdlog (Zhang)
 * Too many algorithms names (Savici, 10m)
+* Workspace index spectrum index detector index (Conor Finn, 10m)
 
 *How-to tutorials*
 
 * Model-View-Presenter (MVP) (Patrou) 1.5h
 * Performance benchmarking (Peterson) 1h
 * Buidling packages using Conda (Tom Hampson) .5-1h
-* Workspace index spectrum index detector index (Conor Finn)
 * Workspace properties
 * Developing software with mantid as a dependency
