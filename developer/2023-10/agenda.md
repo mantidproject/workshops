@@ -42,15 +42,15 @@ Tue, Oct 17
 * 08:30 Model-View-Presenter (MVP) (Patrou) 1.5h
 * 10:00 break
 * 10:15 Lightning talks
-  * EnumeratedString: safety and simplicity for finite string sets (Boston)
-  * How we set up our new Staging Server for development at ISIS (Applin)
+  * EnumeratedString: safety and simplicity for finite string sets (Boston, 5m)
+  * How we set up our new Staging Server for development at ISIS (Applin, 5m)
   * Too many algorithms names (Savici, 10m)
   * Workspace index spectrum index detector index (Conor Finn, 10m)
-  * User stories (Hetrick)
-  * Intro to the DevOps Team and what we do (Foxley)
-  * Coverity (Peterson)
-  * Peak finding (Richard Waite)
-  * spdlog (Zhang)
+  * User stories (Hetrick, 5m)
+  * Intro to the DevOps Team and what we do (Foxley, 5m)
+  * Coverity (Peterson, 5m)
+  * Peak finding (Richard Waite, 5m)
+  * spdlog (Zhang, 5m)
   * Compiler Explorer (Mial Lewis)
 * 11:30 ???
 * 12:00 lunch - The case for logging into Mantid (Lewis)
