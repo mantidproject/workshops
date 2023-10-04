@@ -28,8 +28,9 @@ Mon, Oct 16
 * 09:00 Welcome - Jon Taylor
 * 09:15 Overview - Pete Peterson
 * 09:30 Performance benchmarking (Peterson) 1h
-* 10:30 Building packages using Conda (Hampson) .5-1h
-* 11:30 Simple MDEvent algorithms (Savici)
+* 10:30 break
+* 10:45 Building packages using Conda (Hampson) .5-1h
+* 11:45 Simple MDEvent algorithms (Savici)
 * 12:00 lunch - Things that have bugged me about mantid - facilitated by Pete Peterson
 * 13:00 Code camp
 * 15:00 Report to the group
@@ -39,7 +40,19 @@ Mon, Oct 16
 Tue, Oct 17
 -----------
 * 08:30 Model-View-Presenter (MVP) (Patrou) 1.5h
-* 10:00 ???
+* 10:00 break
+* 10:15 Lightning talks
+  * EnumeratedString: safety and simplicity for finite string sets (Boston)
+  * How we set up our new Staging Server for development at ISIS (Applin)
+  * Too many algorithms names (Savici, 10m)
+  * Workspace index spectrum index detector index (Conor Finn, 10m)
+  * User stories (Hetrick)
+  * Intro to the DevOps Team and what we do (Foxley)
+  * Coverity (Peterson)
+  * Peak finding (Richard Waite)
+  * spdlog (Zhang)
+  * Compiler Explorer (Mial Lewis)
+* 11:30 ???
 * 12:00 lunch - The case for logging into Mantid (Lewis)
 * 13:00 Code camp
 * 15:00 Report to the group
@@ -49,7 +62,9 @@ Tue, Oct 17
 Wed, Oct 18
 -----------
 * 08:30 ???
-* 12:00 lunch - *need topic*
+* 10:00 break
+* 10:15 ???
+* 12:00 lunch - Testing during release - an ISIS perspective (Foxley)
 * 13:00 Code camp
 * 15:00 Report to the group
 * 15:30 Code camp
