@@ -18,6 +18,10 @@ The workshop will be split between presentations, short tutorials, and working s
 As a result, attendees are intended to bring a laptop capable of making changes to mantid, or have remote access to a machine that can.
 The exact topics for the code camps are dynamic and will be determined by the attendees during the meeting.
 
+There will be a windows machine in the meeting room to present slides from.
+Alternatively, people can screen-share to the machine using MS-teams.
+Things that are expected to be useful later, should be blended into the [mantid developer website](https://developer.mantidproject.org/).
+
 Agenda
 ======
 All events will be in the SNS-CLO (building 8600) room C156 and times are EDT/GMT-04:00
