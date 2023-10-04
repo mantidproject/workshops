@@ -28,7 +28,7 @@ Mon, Oct 16
 * 09:00 Welcome - Jon Taylor
 * 09:15 Overview - Pete Peterson
 * 09:30 Performance benchmarking (Peterson) 1h
-* 10:30 Buidling packages using Conda (Tom Hampson) .5-1h
+* 10:30 Building packages using Conda (Tom Hampson) .5-1h
 * 11:30 Simple MDEvent algorithms (Savici)
 * 12:00 lunch - Things that have bugged me about mantid - facilitated by Pete Peterson
 * 13:00 Code camp
@@ -38,7 +38,8 @@ Mon, Oct 16
 
 Tue, Oct 17
 -----------
-* 08:30 ???
+* 08:30 Model-View-Presenter (MVP) (Patrou) 1.5h
+* 10:00 ???
 * 12:00 lunch - *need topic*
 * 13:00 Code camp
 * 15:00 Report to the group
