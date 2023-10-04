@@ -56,6 +56,7 @@ Tue, Oct 17
   * Peak finding (Richard Waite, 5m)
   * spdlog (Zhang, 5m)
   * Compiler Explorer (Mial Lewis)
+  * Workflows - DAG Optimization (Walsh)
 * 11:30 FilterEvents, TimeROI, and TimeSeriesProperties (Borreguero-Calvo)
 * 12:00 lunch - The case for logging into Mantid (Lewis)
 * 13:00 Code camp
@@ -65,7 +66,8 @@ Tue, Oct 17
 
 Wed, Oct 18
 -----------
-* 08:30 ???
+* 08:30 Consuming Mantid (Walsh, 15m)
+* 08:45 ???
 * 10:00 break
 * 10:15 ???
 * 12:00 lunch - Testing during release - an ISIS perspective (Foxley)
