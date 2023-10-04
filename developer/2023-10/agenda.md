@@ -56,7 +56,7 @@ Tue, Oct 17
   * Peak finding (Richard Waite, 5m)
   * spdlog (Zhang, 5m)
   * Compiler Explorer (Mial Lewis)
-* 11:30 ???
+* 11:30 FilterEvents, TimeROI, and TimeSeriesProperties (Borreguero-Calvo)
 * 12:00 lunch - The case for logging into Mantid (Lewis)
 * 13:00 Code camp
 * 15:00 Report to the group
