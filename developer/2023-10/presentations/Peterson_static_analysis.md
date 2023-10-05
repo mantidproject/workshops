@@ -57,6 +57,7 @@ background-image: url(https://pre-commit.com/logo.svg)
 * nomalizes differences between tools (no more tweaking configuration)
 * will autofix some things
 * [mantid configuration](https://github.com/mantidproject/mantid/blob/main/pyproject.toml)
+* [list of ruff rules](https://docs.astral.sh/ruff/rules/)
 
 ---
 # coverity
