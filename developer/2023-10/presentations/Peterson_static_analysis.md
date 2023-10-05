@@ -1,4 +1,3 @@
----
 layout: presentation
 title: Static analysis in mantid
 template: inverse
@@ -12,8 +11,6 @@ background-size: cover
 ![grumpy cat](https://www.gravatar.com/avatar/0e5fe117c937b1fab5cb88e3d8ef59e4.jpg)
 
 Pete Peterson
-
-
 
 ???
 
