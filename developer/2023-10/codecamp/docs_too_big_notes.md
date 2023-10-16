@@ -6,6 +6,7 @@
 - Ship HTML files only, not QtAssistant, browser opens docs: Saves ~100MB 
 	- Also works on the windows conda install
 - Stop generating the dialog box screenshots: Save 70MB
+       - Add option to shinx plugin to optionally turn off/on creating a dialog for individual algorithms
 
 ## Resulting Tasks
 - Move to [`graphviz`](https://www.sphinx-doc.org/en/master/usage/extensions/graphviz.html) plugin on Sphinx for plotting
