@@ -54,7 +54,7 @@ Tue, Oct 17
   * Intro to the DevOps Team and what we do (Foxley, 5m)
   * Coverity (Peterson, 5m)
   * Peak finding (Richard Waite, 5m)
-  * spdlog (Zhang, 5m)
+  * spdlog (Zhang, 5m, [link_to_repo](https://github.com/KedoKudo/spdlog_tutorial/blob/main/spdlog_tutorial.ipynb))
   * Compiler Explorer (Lewis, 5m)
   * Workflows - DAG Optimization (Walsh, 5m)
   * Robot Framework (Backman, 5m)
