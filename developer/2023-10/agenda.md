@@ -59,9 +59,6 @@ Tue, Oct 17
   * Intro to the DevOps Team and what we do ([Foxley, 5m](https://github.com/mantidproject/workshops/blob/main/developer/2023-10/presentations/Foxley_DevOps_intro.pptx))
   * [Coverity](https://github.com/mantidproject/workshops/blob/main/developer/2023-10/presentations/Peterson_static_analysis.md) (Peterson, 5m)
   * Peak finding ([Richard Waite, 5m](https://github.com/mantidproject/workshops/blob/main/developer/2023-10/presentations/MantidPeakFinding_RWaite.pptx))
-  * Compiler Explorer ([Lewis, 5m](https://github.com/mantidproject/workshops/blob/main/developer/2023-10/presentations/Lewis_CompilerExplorer.pptm))
-  * Workflows - DAG Optimization (Walsh, 5m)
-  * Robot Framework (Backman, 5m)
 * 11:30 [FilterEvents, TimeROI, and TimeSeriesProperties](https://github.com/mantidproject/workshops/blob/main/developer/2023-10/presentations/Borreguero_timeslicing.pdf) (Borreguero-Calvo)
 * 12:00 lunch - [The case for logging into Mantid](https://github.com/mantidproject/workshops/blob/main/developer/2023-10/presentations/Lewis_The%20Case%20for%20Logging%20Into%20Mantid%20-%20template.pptx) (Lewis)
 * 13:00 Code camp
@@ -75,6 +72,9 @@ Wed, Oct 18
 * 08:45 Lightning talks - carryover from Tue
   * User stories (Hetrick, 5m)
   * spdlog (Zhang, 5m, [link_to_repo](https://github.com/KedoKudo/spdlog_tutorial/blob/main/spdlog_tutorial.ipynb))
+  * Compiler Explorer ([Lewis, 5m](https://github.com/mantidproject/workshops/blob/main/developer/2023-10/presentations/Lewis_CompilerExplorer.pptm))
+  * Workflows - DAG Optimization (Walsh, 5m)
+  * Robot Framework (Backman, 5m)
 * 10:00 break
 * 10:15 ???
 * 12:00 lunch - Testing during release - an ISIS perspective (Foxley)
