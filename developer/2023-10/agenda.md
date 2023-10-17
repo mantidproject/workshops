@@ -52,18 +52,18 @@ Tue, Oct 17
 * 08:30 Model-View-Presenter (MVP) (Patrou) 1.5h
 * 10:00 break
 * 10:15 Lightning talks
-  * EnumeratedString: safety and simplicity for finite string sets (Boston, 5m)
-  * How we set up our new Staging Server for development at ISIS (Applin, 5m)
-  * Too many algorithms names (Savici, 10m)
-  * Workspace index spectrum index detector index (Conor Finn, 10m)
-  * Intro to the DevOps Team and what we do (Foxley, 5m)
+  * EnumeratedString: safety and simplicity for finite string sets ([Boston, 5m](https://github.com/mantidproject/workshops/blob/main/developer/2023-10/presentations/BostonMantid2023.pdf))
+  * How we set up our new Staging Server for development at ISIS ([Applin, 5m](https://github.com/mantidproject/workshops/blob/main/developer/2023-10/presentations/staging-servers-lightning-talk.pptx))
+  * Too many algorithms names ([Savici, 10m](https://github.com/mantidproject/workshops/blob/main/developer/2023-10/presentations/Savici-AlgNames-Mantid.md))
+  * Workspace index spectrum index detector index ([Conor Finn, 10m](https://github.com/mantidproject/workshops/blob/main/developer/2023-10/presentations/Mantid-Indexes-CF.pptx))
+  * Intro to the DevOps Team and what we do ([Foxley, 5m](https://github.com/mantidproject/workshops/blob/main/developer/2023-10/presentations/Foxley_DevOps_intro.pptx))
   * [Coverity](https://github.com/mantidproject/workshops/blob/main/developer/2023-10/presentations/Peterson_static_analysis.md) (Peterson, 5m)
-  * Peak finding (Richard Waite, 5m)
-  * Compiler Explorer (Lewis, 5m)
+  * Peak finding ([Richard Waite, 5m](https://github.com/mantidproject/workshops/blob/main/developer/2023-10/presentations/MantidPeakFinding_RWaite.pptx))
+  * Compiler Explorer ([Lewis, 5m](https://github.com/mantidproject/workshops/blob/main/developer/2023-10/presentations/Lewis_CompilerExplorer.pptm))
   * Workflows - DAG Optimization (Walsh, 5m)
   * Robot Framework (Backman, 5m)
-* 11:30 FilterEvents, TimeROI, and TimeSeriesProperties (Borreguero-Calvo)
-* 12:00 lunch - The case for logging into Mantid (Lewis)
+* 11:30 [FilterEvents, TimeROI, and TimeSeriesProperties](https://github.com/mantidproject/workshops/blob/main/developer/2023-10/presentations/Borreguero_timeslicing.pdf) (Borreguero-Calvo)
+* 12:00 lunch - [The case for logging into Mantid](https://github.com/mantidproject/workshops/blob/main/developer/2023-10/presentations/Lewis_The%20Case%20for%20Logging%20Into%20Mantid%20-%20template.pptx) (Lewis)
 * 13:00 Code camp
 * 15:00 Report to the group
 * 15:30 Code camp
