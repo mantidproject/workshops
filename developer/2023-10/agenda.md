@@ -37,8 +37,14 @@ Mon, Oct 16
 * 11:45 Simple MDEvent algorithms (Savici)
 * 12:00 lunch - Things that have bugged me about mantid - facilitated by Pete Peterson
 * 13:00 Code camp
+  * LoadEventNexus speed
+  * [Mantid docs package is too large](https://github.com/mantidproject/workshops/blob/main/developer/2023-10/codecamp/docs_too_big_notes.md)
+  * Finding peaks in 1D data
 * 15:00 Report to the group
 * 15:30 Code camp
+  * Finding peaks in 1D data (continued)
+  * RebinRagged and math operations
+  * [Mantid docs package is too large](https://github.com/mantidproject/workshops/blob/main/developer/2023-10/codecamp/docs_too_big_notes.md) (continued)
 * 17:00 Adjourn
 
 Tue, Oct 17
