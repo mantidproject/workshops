@@ -11,14 +11,14 @@
 * "If possible, avoid abbreviations unless they are common and well understood."
 * Standard prefixes for common tasks: 
   
-  - ~~ http://www.mantidproject.org/Mantid_Standards#Naming ~~
+  - ~~http://www.mantidproject.org/Mantid_Standards#Naming~~
   - https://developer.mantidproject.org/Standards/MantidStandards.html#naming
 
 ---
 
 # 2. Inconsistent capitalization and abbreviations
 
-* ~~ REFLReprocess and RefLReduction ~~
+* ~~REFLReprocess and RefLReduction~~
 * TOFSANSResolution, ConvertEmptyToTof, EQSANSMonitorTOF, EQSANSTofStructure
 * DNSFlippingRatioCorr, DetectorEfficiencyCor, CylinderPaalmanPingsCorrection
 * AsymmetryCalc, SpecularReflectionCalculateTheta
@@ -30,7 +30,7 @@
 
 * Technique specific algorithms:
 
-  - ~~ CalculateResolution (Reflectometry only) ~~ NRCalculateSlitResolution (NR not Reflectometry)
+  - ~~CalculateResolution (Reflectometry only)~~ NRCalculateSlitResolution (NR not Reflectometry)
   - ComputeSensitivity, IQTransform, Q1D (SANS)
   - RemoveLowResTOF (Powder Diffraction)
   - ModeratorTzero (Indirect)
@@ -48,7 +48,7 @@
 # 4. Going into extreme - nonsensical names - does much more than the title impplies, or completely unexpected things
 
 * What does MolDyn do?
-* ~~ QLines, Quest ~~
+* ~~QLines, Quest~~
 * ResNorm
 * TimeSlice
 
@@ -59,7 +59,7 @@
 * What does Calculate... do?
   - CalculateEfficiency returns a workspace with efficiency
   - CalculateFlatBackground (by default) subtracts a constant
-  - ~~ CalculateGammaBackground ~~ VesuvioCalculateGammaBackground does both
+  - ~~CalculateGammaBackground~~ VesuvioCalculateGammaBackground does both
 
 ---
 
