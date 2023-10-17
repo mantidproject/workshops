@@ -62,8 +62,11 @@ Tue, Oct 17
 * 11:30 [FilterEvents, TimeROI, and TimeSeriesProperties](https://github.com/mantidproject/workshops/blob/main/developer/2023-10/presentations/Borreguero_timeslicing.pdf) (Borreguero-Calvo)
 * 12:00 lunch - [The case for logging into Mantid](https://github.com/mantidproject/workshops/blob/main/developer/2023-10/presentations/Lewis_The%20Case%20for%20Logging%20Into%20Mantid%20-%20template.pptx) (Lewis)
 * 13:00 Code camp
+  * Builds are too slow
+  * Simplifying conda dependencies
 * 15:00 Report to the group
 * 15:30 Code camp
+* 16:00 SNS tour
 * 17:00 Adjourn
 
 Wed, Oct 18
@@ -78,7 +81,8 @@ Wed, Oct 18
 * 10:00 break
 * 10:15 ???
 * 12:00 lunch - Testing during release - an ISIS perspective (Foxley)
-* 13:00 Code camp
+* 13:00 HFIR and Graphite Reactor tours
+* 14:30 Code camp
 * 15:00 Report to the group
 * 15:30 Code camp
 * 16:30 Close-out
