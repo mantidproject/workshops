@@ -31,7 +31,7 @@ Mon, Oct 16
 * 08:30 Badging - SNS-CLO visitor center
 * 09:00 Welcome - Jon Taylor
 * 09:15 Overview - Pete Peterson
-* 09:30 Performance benchmarking (Peterson) 1h
+* 09:30 [Performance benchmarking](https://github.com/mantidproject/workshops/blob/main/developer/2023-10/presentations/Peterson_profiling.pptx) (Peterson) 1h
 * 10:30 break
 * 10:45 Building packages using Conda (Hampson) .5-1h
 * 11:45 Simple MDEvent algorithms (Savici)
@@ -58,7 +58,7 @@ Tue, Oct 17
   * Workspace index spectrum index detector index (Conor Finn, 10m)
   * User stories (Hetrick, 5m)
   * Intro to the DevOps Team and what we do (Foxley, 5m)
-  * Coverity (Peterson, 5m)
+  * [Coverity](https://github.com/mantidproject/workshops/blob/main/developer/2023-10/presentations/Peterson_static_analysis.md) (Peterson, 5m)
   * Peak finding (Richard Waite, 5m)
   * spdlog (Zhang, 5m, [link_to_repo](https://github.com/KedoKudo/spdlog_tutorial/blob/main/spdlog_tutorial.ipynb))
   * Compiler Explorer (Lewis, 5m)
