@@ -56,11 +56,9 @@ Tue, Oct 17
   * How we set up our new Staging Server for development at ISIS (Applin, 5m)
   * Too many algorithms names (Savici, 10m)
   * Workspace index spectrum index detector index (Conor Finn, 10m)
-  * User stories (Hetrick, 5m)
   * Intro to the DevOps Team and what we do (Foxley, 5m)
   * [Coverity](https://github.com/mantidproject/workshops/blob/main/developer/2023-10/presentations/Peterson_static_analysis.md) (Peterson, 5m)
   * Peak finding (Richard Waite, 5m)
-  * spdlog (Zhang, 5m, [link_to_repo](https://github.com/KedoKudo/spdlog_tutorial/blob/main/spdlog_tutorial.ipynb))
   * Compiler Explorer (Lewis, 5m)
   * Workflows - DAG Optimization (Walsh, 5m)
   * Robot Framework (Backman, 5m)
@@ -75,6 +73,8 @@ Wed, Oct 18
 -----------
 * 08:30 Consuming Mantid (Walsh, 15m)
 * 08:45 Lightning talks - carryover from Tue
+  * User stories (Hetrick, 5m)
+  * spdlog (Zhang, 5m, [link_to_repo](https://github.com/KedoKudo/spdlog_tutorial/blob/main/spdlog_tutorial.ipynb))
 * 10:00 break
 * 10:15 ???
 * 12:00 lunch - Testing during release - an ISIS perspective (Foxley)
