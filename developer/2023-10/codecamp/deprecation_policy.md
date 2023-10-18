@@ -17,6 +17,11 @@ or should this be done in sprint 3 because it requires more work? - prob sprint 
 Useful to use when we're creating v2, v3 etc of an algorithm. We make it clear that we are no longer supporting it (i.e. no longer developing it).
 It is still safe to use but encourage users to use most recent version.
 
+### Process
+- run script
+- add deprecation warnings (in sprint 3?)
+- Communicate via announcements list
+
 ### Examples of other deprecation policies 
 
 - Numpy - https://numpy.org/neps/nep-0023-backwards-compatibility.html
