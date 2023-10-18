@@ -39,3 +39,23 @@ If this significantly improves test times, consider moving performance tests to 
 Identify the file in Doxygen build which stores the dependency tree.
 
 Experiment with ways to use this tree to inform the test suite.
+
+There is a [script here](https://www.flourish.org/cinclude2dot/) which is capable of analyzing C++ codebases for #include directives and building dependency trees.  CTest has the ability to set "labels" on files, and [only run tests of certain labels using the `-L` directive](https://stackoverflow.com/questions/67865677/how-to-force-ctest-only-run-unit-tests-in-some-subdirectories).  A combintation of these, using the script to get dependencies, setting labels on the dependent files, then using `-L` in ctest to only run files with that label, could enable only running dependent tests.
+
+This could speed up the tests run on the PRs, as only tests impacted by the changed files actually need to be checked.
+
+## Split off systems tests
+
+The linux runners finish running unit tests in about 15-20 minutes.  The remaining time is spent on the systems tests.  To give more rapid feedback to devs, reporting back if unit tests pass or fail on linux first, before running system tests, could speed up the dev cycle.  If the unit tests fail, the dev will more quickly know to fix something; if the unit tests pass, the dev may feel comfortable going ahead an marking a PR ready for review.
+
+## Minimize systems tests
+
+The linux runners finish running unit tests in about 15-20 minutes.  The remaining time is spent on the systems tests.  The SNSPowderRedux system test suite is a major offender, with multiple tests taking over 200s, several over 500s. Perhaps decreasing the size of the test data to these files will reduce the amount of time these tests spend running.   Below is a list of some of the slow systems tests
+ - SNSPowderRedux
+ - LoadLotsOfFiles
+ - D7YIGPositionCalibrationTest
+ - ILLPowderEfficiencyClosureTest
+ - CorelliPowderCalibrationTest
+ - ISIS_WISHPowderReductionTest
+ - ISIS_PowderOsirisTest
+ - ISIS_PowderPolarisTest
