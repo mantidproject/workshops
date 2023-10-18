@@ -1,7 +1,7 @@
 ### Deprecation Policy Draft
 
 ### Timescales
-- Algorithm not used for 3 years mark for deprecation
+- Algorithm not used for 3 years mark for deprecation - data from the script they are running from usage report data
 - Mark as deprecated for 2 releases before removing entirely
 - When should we put deprecation warnings? Is this something we can do during release sprint to go into release-next?
 or should this be done in sprint 3 because it requires more work? - prob sprint 3 so in place for Beta testing
