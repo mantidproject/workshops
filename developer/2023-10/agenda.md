@@ -62,7 +62,7 @@ Tue, Oct 17
 * 11:30 [FilterEvents, TimeROI, and TimeSeriesProperties](https://github.com/mantidproject/workshops/blob/main/developer/2023-10/presentations/Borreguero_timeslicing.pdf) (Borreguero-Calvo)
 * 12:00 lunch - [The case for logging into Mantid](https://github.com/mantidproject/workshops/blob/main/developer/2023-10/presentations/Lewis_The%20Case%20for%20Logging%20Into%20Mantid%20-%20template.pptx) (Lewis)
 * 13:00 Code camp
-  * Builds are too slow
+  * [Builds are too slow](https://github.com/mantidproject/workshops/blob/main/developer/2023-10/codecamp/build_too_slow.md)
   * Simplifying conda dependencies
 * 15:00 Report to the group
 * 15:30 Code camp
@@ -73,16 +73,18 @@ Wed, Oct 18
 -----------
 * 08:30 Consuming Mantid (Walsh, 15m)
 * 08:45 Lightning talks - carryover from Tue
-  * User stories (Hetrick, 5m)
+  * User stories ([Hetrick, 5m](https://github.com/mantidproject/workshops/blob/main/developer/2023-10/presentations/UserStoryIntro.pptx))
   * spdlog (Zhang, 5m, [link_to_repo](https://github.com/KedoKudo/spdlog_tutorial/blob/main/spdlog_tutorial.ipynb))
   * Compiler Explorer ([Lewis, 5m](https://github.com/mantidproject/workshops/blob/main/developer/2023-10/presentations/Lewis_CompilerExplorer.pptm))
   * Workflows - DAG Optimization (Walsh, 5m)
-  * Robot Framework (Backman, 5m)
+  * Robot Framework ([Backman, 5m](https://github.com/mantidproject/workshops/blob/main/developer/2023-10/presentations/Backman_robot_framework.pptx))
 * 10:00 break
 * 10:15 ???
 * 12:00 lunch - Testing during release - an ISIS perspective (Foxley)
 * 13:00 HFIR and Graphite Reactor tours
 * 14:30 Code camp
+  * [Builds are too slow](https://github.com/mantidproject/workshops/blob/main/developer/2023-10/codecamp/build_too_slow.md)
+  * [Deprecation policy](https://github.com/mantidproject/workshops/blob/main/developer/2023-10/codecamp/deprecation_policy.md)
 * 15:00 Report to the group
 * 15:30 Code camp
 * 16:30 Close-out
