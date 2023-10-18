@@ -36,8 +36,6 @@ If this significantly improves test times, consider moving performance tests to 
 
 ## Use dependency trees
 
-Identify the file in ninja which caches the dependency trees.
+Identify the file in Doxygen build which stores the dependency tree.
 
 Experiment with ways to use this tree to inform the test suite.
-
-** This is complicated by our very complicated CMake, which obscures actual dependencies **
