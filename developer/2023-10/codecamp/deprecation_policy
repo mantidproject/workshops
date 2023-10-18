@@ -3,11 +3,14 @@
 ### Timescales
 - Algorithm not used for 3 years mark for deprecation
 - Mark as deprecated for 2 releases before removing entirely
+- When should we put deprecation warnings? Is this something we can do during release sprint to go into release-next?
+or should this be done in sprint 3 because it requires more work? - prob sprint 3 so in place for Beta testing
 
 ### Communication
 - Deprecation announced in release notes - a separate deprecation list available from Index?
 - Deprecation warning on algorithm info/help pages
 - E-mail to announcements list?
+- Facilities to also follow their own communication policies
 
 ### Soft Deprecation
 
