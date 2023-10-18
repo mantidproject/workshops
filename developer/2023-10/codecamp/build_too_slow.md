@@ -33,3 +33,9 @@ Go through tests, identify which are performance tests.
 Comment these out (e.g. `test` --> `xtest`) and see how much time is saved.
 
 If this significantly improves test times, consider moving performance tests to onyl build on nightly.
+
+## Use dependency trees
+
+Identify the file in ninja which caches the dependency trees.
+
+Experiment with ways to use this tree to inform the test suite.
