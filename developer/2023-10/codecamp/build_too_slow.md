@@ -13,3 +13,23 @@ We came up with several ideas to resduce the testing time
 4. Configure multiple pushes to the same PR to build from the same runner, when possible.
 5. Split the functionality into multiple domains (e.g. Powder Diffraction, Single Crystal, Single Crystal Inelastic, etc.), which are packaged into separate libraries that are optionally loaded by the users, each separatelt built and tested.
 6. Make the unit tests and systems tests smaller.  Profiling tests, such as those testing time to process large data structures, could be broken off and run separately only occasionally.
+
+
+# Concrete Ideas
+
+## See how removing algos/tests impacts runtime
+
+1. Identify the unused algos.
+2. **In separate branch** comment these out from cmake lists (with their tests)
+3. Measure how long tests run in branch (from start of tests to end of tests)
+4. Uncomment these algos/tests, measure how long
+
+Does removing the algos save us time?
+
+## Identify performance tests
+
+Go through tests, identify which are performance tests.
+
+Comment these out (e.g. `test` --> `xtest`) and see how much time is saved.
+
+If this significantly improves test times, consider moving performance tests to onyl build on nightly.
