@@ -1,0 +1,10 @@
+### Deprecation Policy Draft
+
+### Timescales
+- Algorithm not used for 3 years mark for deprecation
+- Mark as deprecated for 2 releases before removing entirely
+
+### Communication
+- Deprecation announced in release notes - a separate deprecation list available from Index?
+- Deprecation warning on algorithm info/help pages
+- E-mail to announcements list?
