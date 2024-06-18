@@ -1,2 +1,2 @@
 - [Python in Mantid](https://docs.mantidproject.org/nightly/tutorials/python_in_mantid/index.html#pim-intro) / [Extending Mantid with python](https://docs.mantidproject.org/nightly/tutorials/extending_mantid_with_python/index.html)
-- [Profiling mantid workflows](https://developer.mantidproject.org/ProfilingOverview.html) - specifically mantid-profiler
+- [Profiling mantid workflows](https://developer.mantidproject.org/ProfilingOverview.html) - specifically mantid-profiler (Peterson)
