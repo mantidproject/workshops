@@ -2,3 +2,4 @@
 - Request from users on Debugging review with various IDEs
 - Pin down topics coverage for the Dev meeting
 - Approx amount of participants
+- What has always bugged me about mantid is...
