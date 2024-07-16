@@ -3,3 +3,4 @@
 - Pin down topics coverage for the Dev meeting
 - Approx amount of participants
 - What has always bugged me about mantid is...
+- What is a reasonable size for a PR? Is there a maximum size?
