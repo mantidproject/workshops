@@ -1,7 +1,4 @@
 - Mantid developer meeting Monday-Tuesday noon
-- Tutorials on Friday (approx 7.5 hours)
-- Might be an overlap with parallel sessions on Friday
 - Request from users on Debugging review with various IDEs
-- Set up a folder for DevMeeting 2024 (Pete)
 - Pin down topics coverage for the Dev meeting
 - Approx amount of participants
