@@ -21,7 +21,7 @@ Monday
 Tuesday
 -------
 * 09:00 Convene
-* 10:30 coffee
+* 10:00 coffee
 * 10:30 Summary from the meeting
 * 11:00 Departure of ISIS colleagues
 * 12:00 Adjourn for lunch
