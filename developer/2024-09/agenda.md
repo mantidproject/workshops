@@ -1,5 +1,22 @@
 **Location:** Science Building 213
 
+CI Meeting
+==========
+
+- DevOps virtual team looks after the Mantid services including Error Reporter, Usage Reporter, Mailing Lists, Leeroy, Jenkins, Static website, Traeffic and Forum.
+- DevOps team also looks after the runners at ISIS including for 4 Windows, 11 Linux and 4 Mac (2x x86 and 2x M1).
+
+- Tom Hampson (ISIS Core team) will be looking at moving us away from Jenkins to GitHub Actions.
+- Caila Finn (ISIS LSS team) will be working on a DevOps project during v6.12 to make the pipelines more stable. Three key focuses:
+  - Dependency management (RenovateBot)
+  - Connectivity (storing external data on a central node)
+  - Better ways to run system tests (for example sometimes they pass on Linux, then fail the nightly on Mac).
+- Randy (ORNL team) will be looking at improving the stability of their build servers. An easier build methodology.
+
+- Special label for Coverity
+- Access to job runner documentation
+- Update linux docker images to RHEL9. Use conda linux anvil?
+
 Agenda
 ======
 
