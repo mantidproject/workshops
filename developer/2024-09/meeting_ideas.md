@@ -1,19 +1,21 @@
+Done
+----
+- Forking Mantid
+
 Started
 --------
-- Forking Mantid
-- wild/asterix imports
-- pytest for unit tests
-
 - Modularisation Mantid
   - Breaking Mantid into smaller bits
   - Using Mantid as a library
+- wild/asterix imports
+- pytest for unit tests
 
 Ideas
 -----
 What bugs me about Mantid
 - C++17/20
-   - std::filesystems
-   - std::optional
+   - std::filesystems https://github.com/mantidproject/mantid/issues/37868
+   - std::optional https://github.com/mantidproject/mantid/issues/37875
 - Github Actions
 - Build times
 - Jenkins
