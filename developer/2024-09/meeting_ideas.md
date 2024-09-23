@@ -41,7 +41,7 @@ What bugs me about Mantid
 - Debugging QStrings
 - Dependencies (Renovate/Dependabot)
 - Standardisation
-  -XML libraries (mxml, libxml, poco)
+  - XML libraries (mxml, libxml, poco)
   - Geometry (opengl, stuart, opencascade)
   - nexus (nexusio, nexusfile, hdf5, nexus)
   - multithreading (documentation for standardisation)
