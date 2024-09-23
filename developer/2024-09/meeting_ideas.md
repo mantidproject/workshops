@@ -1,3 +1,44 @@
+What bugs me about Mantid
+- C++17/20
+   - std::filesystems
+   - std::optional
+- Forking Mantid
+- Modularisation Mantid
+  - Breaking Mantid into smaller bits
+  - Using Mantid as a library
+- Github Actions
+- Build times
+- Jenkins
+- MVP (talk to Rob)
+- Instrument View
+- Coverity (needs RHEL9)
+- Matplotlib
+- Python typing
+- rust
+- Build tree
+- External Interfaces
+- External Data (segmentation)
+- cxx testgen
+  -google tests
+  - pytest
+- Randomised test order
+- unstable tests
+- long running tests
+- cppcheck suppressions
+- clang tidy
+- Debugging QStrings
+- Dependencies (Renovate/Dependabot)
+- Standardisation
+  -XML libraries (mxml, libxml, poco)
+  - Geometry (opengl, stuart, opencascade)
+  - nexus (nexusio, nexusfile, hdf5, nexus)
+  - multithreading (documentation for standardisation)
+  - python binding
+- asterix imports
+- Mantid nightly
+- loadeventnexus
+- poco (logging, xml, net, multithreading)
+
 - Mantid developer meeting Monday-Tuesday noon
 - Pin down topics coverage for the Dev meeting
 - Number of participants: 14 (7 ISIS, 3 ORNL, 1 MLZ, 3 ILL)
