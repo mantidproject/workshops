@@ -1,6 +1,9 @@
 Done
 ----
 - Forking Mantid
+  - ORNL has a public fork that pushes to upstream
+  - CSNS and ILL have private forks
+  - ILL pushes to upstream periodically
 
 Started
 --------
