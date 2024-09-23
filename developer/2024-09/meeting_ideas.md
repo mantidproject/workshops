@@ -1,11 +1,19 @@
+Started
+--------
+- Forking Mantid
+- wild/asterix imports
+- pytest for unit tests
+
+- Modularisation Mantid
+  - Breaking Mantid into smaller bits
+  - Using Mantid as a library
+
+Ideas
+-----
 What bugs me about Mantid
 - C++17/20
    - std::filesystems
    - std::optional
-- Forking Mantid
-- Modularisation Mantid
-  - Breaking Mantid into smaller bits
-  - Using Mantid as a library
 - Github Actions
 - Build times
 - Jenkins
@@ -20,7 +28,6 @@ What bugs me about Mantid
 - External Data (segmentation)
 - cxx testgen
   -google tests
-  - pytest
 - Randomised test order
 - unstable tests
 - long running tests
@@ -34,7 +41,6 @@ What bugs me about Mantid
   - nexus (nexusio, nexusfile, hdf5, nexus)
   - multithreading (documentation for standardisation)
   - python binding
-- asterix imports
 - Mantid nightly
 - loadeventnexus
 - poco (logging, xml, net, multithreading)
@@ -43,8 +49,6 @@ What bugs me about Mantid
 - Pin down topics coverage for the Dev meeting
 - Number of participants: 14 (7 ISIS, 3 ORNL, 1 MLZ, 3 ILL)
 
-Ideas
------
 - Mantid CI discussion - build servers with video conference
 - Rewrite of instrument view
 - What has always bugged me about mantid is...
