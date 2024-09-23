@@ -45,7 +45,10 @@ What bugs me about Mantid
   - Geometry (opengl, stuart, opencascade)
   - nexus (nexusio, nexusfile, hdf5, nexus)
   - multithreading (documentation for standardisation)
-  - python binding
+  - python binding (boost vs pybind11)
+  - guis in `scripts/`
+  - algorithms in `scripts/`
+  - instrument specific guis
 - Mantid nightly
 - loadeventnexus
 - poco (logging, xml, net, multithreading)
