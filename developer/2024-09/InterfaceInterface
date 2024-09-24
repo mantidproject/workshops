@@ -20,4 +20,25 @@ Dependency management
 - Needs to be user friendly above all else 
   - don't overcomplicate it for users
 Some interfaces have external dependencies - how would that be managed
+MSlice workflow that checks main Mantid against current MSlice repo - needs sharing/best practice
+How will testing work
+Interfaces have separate repository? Single repo? Sub modules (e.g. ISIS Controls/IBEX)
+Need to consider carbon footprint
+Mapping exercise to work out what should be put into interface and what should be shared in Core
+Interface module to contain shared interface code e.g. styling
+How would DOI work for referencing if interfaces on different versions from core?
+  - versioning in meta data for reproducibility
+  - MSlice use SHA reference
+  - best practice for interfaces
+We will need to produce an overall best practice for creating interfaces to interact with Mantid core
+What will the developer burden be for separating out interfaces and developing them separately
+Project saving/history
+How will documentation work
 
+Next steps
+- Continue work with MSlice & share with project
+- Work out where interfaces depend on each other
+- Use Shiver as a test case?
+- Documentation best practices for interfaces
+- MVP Traing (14th October), template and documentation
+- Discussion on architecture (Jan/Feb 2025)
