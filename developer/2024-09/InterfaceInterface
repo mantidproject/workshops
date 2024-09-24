@@ -1,0 +1,23 @@
+Base class for interfaces
+Conda - pull in interface packages needed
+Mechanism within Mantid to install different interfaces
+  - be able to register new interfaces
+Mechanism for updating interface packages
+Use Mantid Properties file
+GUI to enable user to select science areas? 
+Expert mode?
+Mechansim to tell user that new version available - news section? RSS feed or something similar?
+  - we already let people know about new versions via new Error Reporter
+What about users who are unable to update/upload software on their machines without permissions?
+  - How would it work on IDAaaS
+Each interface woukd probably require a minimum version of Mantid - can be done via the recipe
+Does it have to be set up with Conda?
+  - What about standalone versions?
+Are there problems with conda local channels for testing? Probably need instructions in Dev Docs
+Dependency management
+  - base environment
+  - sub environments that don't override base environment
+- Needs to be user friendly above all else 
+  - don't overcomplicate it for users
+Some interfaces have external dependencies - how would that be managed
+
