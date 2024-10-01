@@ -1,7 +1,64 @@
 **Location:** Science Building 213
 
+Things discussed/decided
+========================
+
+- Forking Mantid
+  - ORNL has a public fork that pushes to upstream
+  - CSNS and ILL have private forks
+  - ILL pushes to upstream periodically
+- Modularisation Mantid
+  - Breaking Mantid into smaller bits
+  - Using Mantid as a library
+  - What is the future of scientific interfaces and mantid modularization?
+    - How would we break out interfaces so they can be discovered?
+    - Questions about documentation
+- wild/asterix imports
+- pytest for unit tests
+- Rewrite of instrument view
+- The move to numpy v2
+
+What has always bugged me about mantid is...
+--------------------------------------------
+- C++17/20
+   - std::filesystems https://github.com/mantidproject/mantid/issues/37868
+   - std::optional https://github.com/mantidproject/mantid/issues/37875
+- Github Actions
+- Build times
+- Jenkins
+- MVP (talk to Rob)
+- Instrument View
+- Coverity (needs RHEL9)
+- Matplotlib
+- Python typing
+- rust
+- Build tree
+- External Interfaces
+- External Data (segmentation)
+- cxx testgen
+  -google tests
+- Randomised test order
+- unstable tests
+- long running tests
+- cppcheck suppressions
+- clang tidy
+- Debugging QStrings
+- Dependencies (Renovate/Dependabot)
+- Standardisation
+  - XML libraries (mxml, libxml, poco)
+  - Geometry (opengl, stuart, opencascade)
+  - nexus (nexusio, nexusfile, hdf5, nexus)
+  - multithreading (documentation for standardisation)
+  - python binding (boost vs pybind11)
+  - guis in `scripts/`
+  - algorithms in `scripts/`
+  - instrument specific guis
+- Mantid nightly
+- loadeventnexus
+- poco (logging, xml, net, multithreading)
+
 CI Meeting
-==========
+----------
 
 - DevOps virtual team looks after the Mantid services including Error Reporter, Usage Reporter, Mailing Lists, Leeroy, Jenkins, Static website, Traeffic and Forum.
 - DevOps team also looks after the runners at ISIS including for 4 Windows, 11 Linux and 4 Mac (2x x86 and 2x M1).
@@ -16,6 +73,12 @@ CI Meeting
 - Special label for Coverity
 - Access to job runner documentation
 - Update linux docker images to RHEL9. Use conda linux anvil?
+
+Things not covered, but suggested
+---------------------------------
+- Request from users on Debugging review with various IDEs
+- What is a reasonable size for a PR? Is there a maximum size?
+
 
 Agenda
 ======
