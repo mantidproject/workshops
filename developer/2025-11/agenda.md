@@ -24,7 +24,7 @@ Agenda
 ======
 All events will be in the Visitor Centre unless otherwise stated and times are GMT.
 
-Mon, 3rd November
+Mon, 3rd November (in person all day)
 -----------
 * 08:30 Badging -  Visitor center (please not this is separate from registering at the facility for entrance to site)
 * 09:00 Welcome - TBC
@@ -40,7 +40,7 @@ Quick updates from facilities (dev focused)
 * 13:00 Hackathon of Hackathon activities
 * 17:00 Adjourn
 
-Tue, 4th November
+Tue, 4th November (AM in person, PM Hybrid)
 -----------
 * 08:30 Coffee and networking
 * 9:00 Recap of previous day - Sarah Foxley
@@ -50,7 +50,7 @@ Tue, 4th November
 * 13:00 Talks
 * 17:00 Adjourn
 
-Wed, Oct 18
+Wed, Oct 18 (AM in person, PM Hybrid)
 -----------
 * 08:30 Coffee and networking
 * 9:00 Recap of previous day - Sarah Foxley
