@@ -57,6 +57,6 @@ Wed, Oct 18 (AM in person, PM Hybrid)
 * 9:15 Code Camp
 * 11:30 Report to group
 * 12:00 Lunch
-* 13:00 Talks
+* 13:00 Lightening Talks
 * 16:30 Close-out
 * 17:00 Adjourn
