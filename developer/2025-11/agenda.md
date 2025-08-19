@@ -1,6 +1,6 @@
 When
 ====
-3rd - 6th November 2025
+3rd - 5th November 2025
 
 Where
 ====
@@ -50,7 +50,7 @@ Tue, 4th November (AM in person, PM Hybrid)
 * 13:00 Talks
 * 17:00 Adjourn
 
-Wed, Oct 18 (AM in person, PM Hybrid)
+Wed, 5th November (AM in person, PM Hybrid)
 -----------
 * 08:30 Coffee and networking
 * 9:00 Recap of previous day - Sarah Foxley
