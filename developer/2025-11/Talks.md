@@ -1,8 +1,8 @@
-When
 List of talks submitted
 =======================
 
 ISIS
+====
 * Mantid in a browser: A greener alternative to cloud servers? - Dr Duc Lee
 * Texture in Mantid - Dr Andy Bridger
 * TBC - Mial Lewis
@@ -10,10 +10,12 @@ ISIS
 * Single-Crystal Bragg peak detection using Deep Learning for WISH instrument at ISIS - Waruna Priyankara Jayasundara Abeykoon Wickramasingha
 
 ORNL
+====
 *  Autoreduction and Live Reduction using Mantid at ORNL - Marie Backman
 *  Unwrapping the NAPI - Dr Reece Boston
 *  TBC - Dr Peter Peterson
 *  Data Handling for Mantid Consuming Workflows - Michael Walsh
 
 CSNS
+====
 * Data Management in CSNS - Professor Junrong Zhang
