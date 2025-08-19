@@ -3,7 +3,7 @@ List of talks submitted
 
 ISIS
 ====
-* Mantid in a browser: A greener alternative to cloud servers? - Dr Duc Lee
+* Mantid in a browser: A greener alternative to cloud servers? - Dr Duc Le
 * Texture in Mantid - Dr Andy Bridger
 * TBC - Mial Lewis
 * Release Notes in Mantid - Gui Pereira
