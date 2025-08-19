@@ -7,7 +7,6 @@ ISIS
 * Texture in Mantid - Dr Andy Bridger
 * TBC - Mial Lewis
 * Release Notes in Mantid - Gui Pereira
-* Single-Crystal Bragg peak detection using Deep Learning for WISH instrument at ISIS - Waruna Priyankara Jayasundara Abeykoon Wickramasingha
 
 ORNL
 ====
