@@ -37,7 +37,7 @@ Tours of ISIS
 Quick updates from facilities (dev focused)
 
 * 12:00 Lunch
-* 13:00 Hackathon of Hackathon activities
+* 13:00 Hackathon of Hackathon activity led by Caila Finn
 * 17:00 Adjourn
 
 Tue, 4th November (AM in person, PM Hybrid)
