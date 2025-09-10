@@ -58,8 +58,8 @@ Hybrid
 * 14:30 Release notes in Mantid by Gui Pereira
 * 14:50 Mid afternoon break
 * 15:10 Unwrapping the NAPI by Dr Reece Boston
-* 15:40 Mantid in a browser: a greener alternative to cloud servers?
-* 16:00 Data Handling for Mantid Consuming Workflows
+* 15:40 Mantid in a browser: a greener alternative to cloud servers? by Dr Duc Lee
+* 16:00 Data Handling for Mantid Consuming Workflows by Michael Walsh
 * 16:30 Wrap up and Reflection
 * 17:00 Adjourn
 
