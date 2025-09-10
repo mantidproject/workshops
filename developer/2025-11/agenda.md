@@ -42,12 +42,25 @@ Quick updates from facilities (dev focused)
 
 Tue, 4th November (AM in person, PM Hybrid)
 -----------
+In person
+---------
 * 08:30 Coffee and networking
 * 9:00 Recap of previous day - Sarah Foxley
 * 9:15 Code Camp
 * 11:30 Report to group
 * 12:00 Lunch
-* 13:00 Talks
+  
+Hybrid
+------
+* 13:00 Data Management in CSNS by Professor Junrong Zhang
+* 13:30 Autoreduction and Lice Reduction using Mantid at ORNL by Marie Backman
+* 14:00 Texture in Mantid by Dr Andy Bridger
+* 14:30 Release notes in Mantid by Gui Pereira
+* 14:50 Mid afternoon break
+* 15:10 Unwrapping the NAPI by Dr Reece Boston
+* 15:40 Mantid in a browser: a greener alternative to cloud servers?
+* 16:00 Data Handling for Mantid Consuming Workflows
+* 16:30 Wrap up and Reflection
 * 17:00 Adjourn
 
 Wed, 5th November (AM in person, PM Hybrid)
