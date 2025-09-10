@@ -60,7 +60,7 @@ Hybrid
 * 15:10 Unwrapping the NAPI by Dr Reece Boston
 * 15:25 Mantid in a browser: a greener alternative to cloud servers? by Dr Duc Lee
 * 15:45 Data Handling for Mantid Consuming Workflows by Michael Walsh
-* 16:00 TBC
+* 16:00 Dependency Management and Cybersecurity by Dr Pete Peterson
 * 16:15 TBC
 * 16:30 Wrap up and Reflection
 * 17:00 Adjourn
