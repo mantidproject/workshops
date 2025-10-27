@@ -6,3 +6,4 @@ Cross off and add link to new location if they are picked up.
 
 - pixi https://github.com/mantidproject/mantid/pull/40190
 - migrate to github-actions https://github.com/mantidproject/mantid/issues/39497
+- qt5 -> qt6 planning and decisions https://github.com/mantidproject/mantid/issues/38415
