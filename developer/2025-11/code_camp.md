@@ -9,6 +9,8 @@ Cross off and add link to new location if they are picked up.
 - qt5 -> qt6 planning and decisions https://github.com/mantidproject/mantid/issues/38415
 - switch jemalloc to mimalloc and benchmark for memory and speed on linux and windows: https://github.com/mantidproject/mantid/issues/40249
 
+Monday activities
+=================
 
 CSNS Texture Pipeline
 ---------------------
@@ -74,3 +76,12 @@ TODO:
 
 Make a better IDF with proper instrument hierarchy. Try and get this to work with real data or use this in another proof of concept script?
 
+
+Fix cppcheck warnings
+---------------------
+* const reference and const pointer - Reece
+* shadow variables - Marie
+* cstyle casts - Andrei
+
+Hot reloading algorithms
+------------------------
