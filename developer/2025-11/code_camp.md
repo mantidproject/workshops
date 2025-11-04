@@ -311,3 +311,4 @@ Marie and Reece
 Faster builds
 -------------
 * skip doxygen when no cpp files are modified https://github.com/mantidproject/mantid/pull/40270
+* running cmake instrumentation on 4.2rc2 to collect trace metrics that may point to painpoints in the build.  Hopefully eventually generate a flamegraph.
