@@ -304,6 +304,10 @@ Fix Gaussian peak fitting
 https://github.com/mantidproject/mantid/pull/40267
 <img width="920" height="360" alt="image" src="https://github.com/user-attachments/assets/06f9da83-813c-4cb2-82cd-64d06909bd5e" />
 
+Cppcheck fixes
+--------------
+Marie and Reece
+
 Faster builds
 -------------
 * skip doxygen when no cpp files are modified https://github.com/mantidproject/mantid/pull/40270
