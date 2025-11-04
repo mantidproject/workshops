@@ -79,9 +79,9 @@ Make a better IDF with proper instrument hierarchy. Try and get this to work wit
 
 Fix cppcheck warnings
 ---------------------
-* const reference and const pointer - Reece
+* const reference and const pointer - Reece - https://github.com/mantidproject/mantid/pull/40261
 * shadow variables - Marie - https://github.com/mantidproject/mantid/pull/40260
-* cstyle casts - Andrei
+* cstyle casts - Andrei - https://github.com/mantidproject/mantid/pull/40259
 
 Hot reloading algorithms
 ------------------------
