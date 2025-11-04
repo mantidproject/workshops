@@ -89,7 +89,18 @@ Hot reloading algorithms
 
 LLM service integration into workbench
 --------------------------------------
-Update needed - Mial, Mohammed, Jack, Waruna?
+- Branch: https://github.com/mantidproject/mantid/compare/main...mantid_ai_service_impl
+- LLM hosted on an interval server at STFC using llama.cpp.
+- Model used: https://huggingface.co/Qwen/Qwen2.5-7B-Instruct-GGUF
+- LLMService designed for users to be able to register their own LLMS, provided they have a REST API.
+- Work done to give the LLM context (LLM is stateless, so we have to build conversation history in context).
+- ADS content and AlgorithmManager registered algorithms added to contents (hitting issues due to length of prompt, we think - yet to be resolved)
+- Index of vector DB created from the mantid documentation using FAISS (Facebook AI Similiarity search). This index can effectivelty be used to generated a dynamic, more focussed context to aid the prompt.
+
+Work to do:
+- Create middleware to run dynamic prompt creation (RAG workflow), and allow for further customisation in the future.
+- Fix issues with prompt length
+
 
 Investigate what manual tests could become unit tests
 -----------------------------------------------------
