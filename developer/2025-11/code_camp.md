@@ -85,3 +85,26 @@ Fix cppcheck warnings
 
 Hot reloading algorithms
 ------------------------
+Update needed
+
+LLM service integration into workbench
+--------------------------------------
+Update needed - Mial, Mohammed, Jack, Waruna?
+
+Investigate what manual tests could become unit tests
+-----------------------------------------------------
+Update needed - Silke, Remi, Rabiya?
+
+Tuesday activities
+=================
+CSNS Texture Pipeline
+---------------------
+
+LLM service integration into workbench
+--------------------------------------
+
+Investigate what manual tests could become unit tests
+-----------------------------------------------------
+
+If a system test is modified, run it on all OS for that PR
+----------------------------------------------------------
