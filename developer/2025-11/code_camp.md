@@ -85,7 +85,7 @@ Fix cppcheck warnings
 
 Hot reloading algorithms
 ------------------------
-Update needed
+[PR link for documentation on how to do this with existing mantid code.](https://github.com/mantidproject/mantid/pull/40258/)
 
 LLM service integration into workbench
 --------------------------------------
