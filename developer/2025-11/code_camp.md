@@ -307,6 +307,7 @@ https://github.com/mantidproject/mantid/pull/40267
 
 Coverity
 --------
+[Draft PR](https://github.com/mantidproject/mantid/pull/40266)
 
 Cppcheck fixes
 --------------
