@@ -110,7 +110,7 @@ Tests which have been investigated:
 - [MSlice](https://developer.mantidproject.org/Testing/Direct/MSliceTestGuide.html) - Cannot be converted: too much GUI interaction.
 - [SliceViewer](https://developer.mantidproject.org/Testing/SliceViewer/SliceViewer.html) - Some parts (checking what buttons/tabs enabled depending on input workspace) already have tests and can be removed; other parts too interactive and cannot be unit-tested.
 - [Sample Transmission Calculator](https://developer.mantidproject.org/Testing/General/SampleTransmissionCalculatorTestGuide.html) - Could be converted to unit tests
-- [FilterEvents](https://developer.mantidproject.org/Testing/Utility/FilterEventsInterfaceTest.html) - Parts could be unit tested (Adri working on this).
+- [FilterEvents](https://developer.mantidproject.org/Testing/Utility/FilterEventsInterfaceTest.html) - The non-GUI instructions are going to be unit tested, reducing the manual testing steps by half, the GUI needs a bit of refactoring before adding the unit tests.
 
 
 Tuesday activities
