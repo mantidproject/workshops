@@ -332,3 +332,5 @@ Fix Gaussian peak fitting
 -------------------------
 Continue with https://github.com/mantidproject/mantid/pull/40267
 Down from 17 failed systems tests to 7 now we have altered the coordinate transform (rather than removing it)
+
+This will be continuated after the meeting (check the PR for last updates)
