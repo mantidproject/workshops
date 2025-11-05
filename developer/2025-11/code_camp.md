@@ -111,6 +111,8 @@ Tests which have been investigated:
 - [SliceViewer](https://developer.mantidproject.org/Testing/SliceViewer/SliceViewer.html) - Some parts (checking what buttons/tabs enabled depending on input workspace) already have tests and can be removed; other parts too interactive and cannot be unit-tested.
 - [Sample Transmission Calculator](https://developer.mantidproject.org/Testing/General/SampleTransmissionCalculatorTestGuide.html) - Could be converted to unit tests
 - [FilterEvents](https://developer.mantidproject.org/Testing/Utility/FilterEventsInterfaceTest.html) - The non-GUI instructions are going to be unit tested, reducing the manual testing steps by half, the GUI needs a bit of refactoring before adding the unit tests.
+- **ILL/Drill** interface does not have Manual Testing procedure, but already a system test which could be updated [here](https://github.com/mantidproject/mantid/blob/main/Testing/SystemTests/tests/framework/DrillProcessTest.py)
+- **ILL/Simple Scan Viewer** (a derivative of the slice viewer) test could be created instead of creating a Manual Testing procedure
 
 
 Tuesday activities
