@@ -113,3 +113,14 @@ Continue with https://github.com/mantidproject/mantid/pull/40267
 Down from 17 failed systems tests to 7 now we have altered the coordinate transform (rather than removing it)
 
 This will be continuated after the meeting (check the PR for last updates)
+
+ORNL discussion about modularizing Mantid
+-----------------------------------------
+Currently, you can add algorithms as plugins, but not UI + documentation.
+Facility-specific modules like Shiver and SNAPRed are added in the Workbench menus, but will not be available unless installed in the environment (you see an error message: "SNAPRed not available").
+It would be good to have a plugin system where Mantid doesn't need to know about the plugins at build time.
+A good plugin system would also make it easier to separate out existing facility-specific code.
+There is a wish to also be able to run plugins outside Workbench.
+
+Spyder is a GUI written in Python+Qt and has a plugin architecture:
+https://docs.spyder-ide.org/current/workshops/plugin-development.html
