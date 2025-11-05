@@ -129,3 +129,4 @@ https://docs.spyder-ide.org/current/workshops/plugin-development.html
 Faster builds
 -------------
 * Still looking into generating a Flame Graph with actionable data, looking into perf based, ninja log based, and cmake instrumentation based.  Currently have a flatish flame graphe with each build target.
+* Sort of related: PR to clean up unused includes: https://github.com/mantidproject/mantid/pull/40278
