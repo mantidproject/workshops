@@ -322,3 +322,11 @@ Faster builds
 -------------
 * skip doxygen when no cpp files are modified https://github.com/mantidproject/mantid/pull/40270
 * running cmake instrumentation on 4.2rc2 to collect trace metrics that may point to painpoints in the build.  Hopefully eventually generate a flamegraph.
+
+Tuesday activities
+=================
+
+Fix Gaussian peak fitting
+-------------------------
+Continue with https://github.com/mantidproject/mantid/pull/40267
+Down from 17 failed systems tests to 7 now we have altered the coordinate transform (rather than removing it)
