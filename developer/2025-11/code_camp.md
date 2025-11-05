@@ -88,7 +88,12 @@ Coverity
 
 Cppcheck fixes
 --------------
-Marie and Reece
+Andrei, Marie and Reece
+https://github.com/mantidproject/mantid/pull/40259
+https://github.com/mantidproject/mantid/pull/40260
+https://github.com/mantidproject/mantid/pull/40261
+https://github.com/mantidproject/mantid/pull/40271
+
 
 Faster builds
 -------------
