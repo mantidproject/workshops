@@ -1,6 +1,6 @@
 # Meta-Hackathon Notes, Results, and Feedback
 
-## Turbo Test
+## 🥇 Turbo Test
 - Many unit tests take minutes rather than seconds to run.
 - Aim to bring down this total runtime.
 - Tests can be easily split. Teams decide which they look at.
@@ -13,30 +13,7 @@ Final Score: 10
 
 Trophies: 🏆 **Most Productive**, :trophy: **Most Collaborative**
 
-## Improving Code Editor
-- Code editor is well-compartmentalised, so given a general area to work on.
-- One day
-- Teams would come up with a list of ideas.
-- Scoring: Usability, Performance, Code Quality, Test Coverage, Sustainability.
-
-Final Score: 2
-
-Trophies: :trophy: **Most Unique**
-
-## Sustainability
-- Reduce power consumption for processing
-- Unit/System tests that run for too long
-- Teams decide on an area they wish to work on
-- Ideas get put into a single pot
-- Teams draw in a random order
-- Reverse order for day two
-- Quantified energy savings in terms of CO2
-- Leader board of improvement. Element of competition. 
-- There are some tools that exist. Would need more consideration.
-
-Final Score: 1
-
-## MARGARITA Party
+## 🥈 M.A.R.G.A.R.I.T.A Party
 - Lots of sub-packages of mantid
 - Break up those packages into smaller to reduce interdependency
 - Determine actual mantid interdependency trees
@@ -50,7 +27,7 @@ Final Score: 9
 
 Trophies: :trophy: **Most Unique**, :trophy: **Most Fun**
 
-## Check the Error Messages
+## 🥉 Check the Error Messages
 - Large number of statements that don't use `self.assertRaisesRegex` or `TS_ASSERT_THROWS_EQUALS`.
 	- Can easily hide bugs.
 - Would be grouped into sets of files containing these missing test checks. Grouped by a whole number of files.
@@ -70,6 +47,15 @@ Final Score: 8
 
 Trophies: :trophy: **Most Accessible**
 
+## Improving Code Editor
+- Code editor is well-compartmentalised, so given a general area to work on.
+- One day
+- Teams would come up with a list of ideas.
+- Scoring: Usability, Performance, Code Quality, Test Coverage, Sustainability.
+
+Final Score: 2
+
+Trophies: :trophy: **Most Unique**
 
 ## Data Reduction
 - Lots of large data files that users don't need access to.
@@ -85,6 +71,20 @@ Trophies: :trophy: **Most Accessible**
 
 Final Score: 2
 
+## Sustainability
+- Reduce power consumption for processing
+- Unit/System tests that run for too long
+- Teams decide on an area they wish to work on
+- Ideas get put into a single pot
+- Teams draw in a random order
+- Reverse order for day two
+- Quantified energy savings in terms of CO2
+- Leader board of improvement. Element of competition. 
+- There are some tools that exist. Would need more consideration.
+
+Final Score: 1
+
+---
 
 ## Feedback:
 > It was a touch long. At this point I am struggling to evaluate how it could be improved. Perhaps pre-canvasing the starting ideas and then groups pick/get assigned one from the list, to avoid so much duplication of aims?
