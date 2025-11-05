@@ -124,3 +124,8 @@ There is a wish to also be able to run plugins outside Workbench.
 
 Spyder is a GUI written in Python+Qt and has a plugin architecture:
 https://docs.spyder-ide.org/current/workshops/plugin-development.html
+
+
+Faster builds
+-------------
+* Still looking into generating a Flame Graph with actionable data, looking into perf based, ninja log based, and cmake instrumentation based.  Currently have a flatish flame graphe with each build target.
