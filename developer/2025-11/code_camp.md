@@ -305,6 +305,11 @@ Fix Gaussian peak fitting
 https://github.com/mantidproject/mantid/pull/40267
 <img width="920" height="360" alt="image" src="https://github.com/user-attachments/assets/06f9da83-813c-4cb2-82cd-64d06909bd5e" />
 
+Update VSCode debugger configuration
+------------------------------------
+Got stuck on a silly oversight when setting up the VSCode debugger on Linux: the path to the executable program should be a full path and not contain '~', otherwise the executable is not found.
+Update to the documantation: [Draft PR](https://github.com/mantidproject/mantid/pull/40274/files)
+
 Coverity
 --------
 [Draft PR](https://github.com/mantidproject/mantid/pull/40266)
