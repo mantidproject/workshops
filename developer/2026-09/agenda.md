@@ -1,5 +1,5 @@
 # Agenda
-The entire meeting will be in BAH2 except for where noted otherwise
+The entire meeting will be in "1b 5" except for where noted otherwise
 
 * 08:30 (FLASH seminar room) Welcome and safety briefing
 * 09:15 Welcome and Overview - Peterson
